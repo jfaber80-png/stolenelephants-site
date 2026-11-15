@@ -1,0 +1,48 @@
+# stolenelephants.com — robots.txt
+# Public guide site: all search engines and AI crawlers may crawl everything.
+# Directives are grouped per crawler so each can be tightened individually later.
+
+User-agent: *
+Allow: /
+
+# --- AI search / answer-engine crawlers (these send visitors back with citations) ---
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+# --- AI training crawlers ---
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+
+# --- Blocked: high-volume ByteDance AI-training crawler, no citations or referral traffic ---
+User-agent: Bytespider
+Disallow: /
+
+# Sitemap and LLM-readable site summary
+Sitemap: https://www.stolenelephants.com/sitemap.xml
+# llms.txt: https://www.stolenelephants.com/llms.txt
+# llms-full.txt: https://www.stolenelephants.com/llms-full.txt
