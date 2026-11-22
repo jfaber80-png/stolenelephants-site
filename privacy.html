@@ -121,12 +121,13 @@ details{border:1.5px solid var(--line);border-radius:10px;background:#fff;margin
 <li><strong>Game content:</strong> your gift photos, videos and product links, thank-you videos, comments, votes, and what happens in the game (opens, steals and turn order).</li>
 <li><strong>Host information:</strong> game settings, the invite list if you invite players by email, and schedule and time-zone choices.</li>
 <li><strong>Sign-in cookie:</strong> a cookie that keeps you signed in to a game on your device for up to 90 days. It’s needed for the app to work and isn’t used for advertising.</li>
-<li><strong>Technical data:</strong> like most web services, our servers handle your IP address and browser details to deliver pages and limit abuse such as repeated PIN attempts.</li>
+<li><strong>Technical data:</strong> like most web services, our servers handle your IP address and browser details to deliver pages and limit abuse such as repeated PIN attempts. We also use Sentry to receive error reports from the app, which can include technical details such as the page, browser type and IP address.</li>
+<li><strong>Product links:</strong> if you open a product link in a game, the retailer can see that you came from us, and some links are affiliate links (see our <a href="https://www.stolenelephants.com/terms">Terms</a>). We don’t send the retailer your name or delivery details.</li>
 </ul>
 <h3>When you pay</h3>
 <p>Payments are handled by Stripe. Your card details go to Stripe, not to us. We receive payment confirmation, the amount, the plan and limited billing details such as your name, email and the last four digits of the card. We never see or store your full card number.</p>
 <h3>On the guide website</h3>
-<p>The guide pages don’t ask you to create an account, and we don’t run advertising or analytics trackers on them. If you email us, we keep your message and address so we can reply.</p>
+<p>The guide pages don’t ask you to create an account, and we don’t run advertising trackers on them. We use Plausible, a privacy-focused analytics service that doesn’t use cookies or build profiles of individual visitors, to count visits and see which pages are read. If you email us, we keep your message and address so we can reply.</p>
 </section>
 <section>
 <h2>3. How we use it</h2>
@@ -144,7 +145,7 @@ details{border:1.5px solid var(--line);border-radius:10px;background:#fff;margin
 <ul>
 <li><strong>Other players and the host</strong> see what the game shows them: names, opened gifts, comments and votes.</li>
 <li><strong>The player who owes you a gift sees your delivery address.</strong> At the end of the game, the address you entered is disclosed to the participant who must send or deliver your gift, and only to that participant, so they can fulfill the delivery. By entering an address you agree to this disclosure. Once shared, we can’t control what that participant does with it, so only enter an address you’re comfortable giving them.</li>
-<li><strong>Service providers</strong> that help us run the service: Stripe (payments); our hosting provider, Fly.io; Cloudflare, which stores our database backups; and an email delivery provider that sends game emails. They may only use the data to provide their services to us. The app also loads the Baloo 2 font from Google Fonts, which means your browser contacts Google when you use it.</li>
+<li><strong>Service providers</strong> that help us run the service: Stripe (payments); our hosting provider, Fly.io; Cloudflare, which stores our database backups; Postmark, which sends game emails; Plausible (website analytics); and Sentry (error monitoring). They may only use the data to provide their services to us. The app also loads the Baloo 2 font from Google Fonts, which means your browser contacts Google when you use it.</li>
 <li><strong>Legal reasons:</strong> we may disclose information if required by law or to protect rights, safety and the service.</li>
 <li><strong>Business changes:</strong> if the business is sold or reorganized, information may transfer to the new owner under this policy.</li>
 </ul>
