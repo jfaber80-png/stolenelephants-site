@@ -2485,6 +2485,11 @@ Gift & thank-you videos
 —
 Up to 30 sec
 Up to 45 sec
+Party photo gallery with comments (everyone posts pictures; players and the host comment)
+—
+✓
+✓
+Party and Business games can add their own logo. You can start on Free and upgrade any time before the game starts.
 ## Which tier fits your group?
 Three honest recommendations.
 ### Free — up to 8 players
@@ -2492,10 +2497,10 @@ Perfect for: family game night, one classroom, a squad of friends. The entire ru
 Full draw, steal chains, Three-Owner Rule locks, final swap — live or async. If your circle fits around one table, you’ll never need to pay.
 ### Party — 9 to 40 players
 Perfect for: office teams, big family reunions, club holiday parties. One flat $19 covers everyone.
-Everything in Free, sized for the whole department: async across the week, spectator-plus for remote guests, and the finale chain as the group event it deserves to be.
+Everything in Free, sized for the whole department: async across the week, spectator-plus for remote guests, 30-second gift and thank-you videos, and a party photo gallery where everyone posts pictures and comments. Party and Business games can add their own logo.
 ### Business — 41 to 150 players
 Perfect for: whole-company holiday chaos, multi-office events, the all-hands that needs a scoreboard.
-Same engine, company scale. One event link, every office and time zone in one pile, and no per-seat math when the headcount wobbles between November and December.
+Same engine, company scale. One event link, every office and time zone in one pile, and no per-seat math when the headcount wobbles between November and December. Adds 45-second gift and thank-you videos and the party photo gallery with comments. Party and Business games can add their own logo.
 ## Common pricing questions
 Short answers; the FAQ has more.
 Is it per person? No — per event. A 40-player Party event costs $19 total, not $19 a head.
@@ -2508,7 +2513,9 @@ Free for up to 8 players. Party tier is $19 per event for 9–40 players, and Bu
 Is there a free plan?
 Yes — the full rulebook engine (draw, steals, Three-Owner Rule locks, final swap, live or async) is free for groups up to 8 players, with no time limit.
 What’s the difference between Party and Business tiers?
-Party covers 9–40 players at $19 per event, Business covers 41–150 at $99. Both include a custom logo on your event and gift and thank-you videos; Business allows longer videos (45 seconds instead of 30).
+Party covers 9–40 players at $19 per event, Business covers 41–150 at $99. Both include gift and thank-you videos and a party photo gallery where players post pictures and comment to each other and the host; Business allows longer videos (45 seconds instead of 30). Party and Business games can add their own logo.
+What is the party photo gallery?
+On Party and Business games, every player can post photos to a shared gallery inside the game. Anyone in the game can comment, and the host can remove anything. The gallery is deleted with the rest of the game, 15 days after it ends.
 ## Ready to host?
 Free for up to 8 players — start an event and let the app track every steal.
 Start an event →
