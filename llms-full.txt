@@ -2464,9 +2464,9 @@ Title: Stolen Elephants Pricing: Free, Party & Business Plans
 
 Quick answer
 Stolen Elephants charges per event, never per seat or per month. The Free plan covers up to 8 players for $0, Party is $19 per event for up to 40 players, and Business is $99 per event for up to 150 players. All plans include the rulebook engine, which handles draws, steals, Three-Owner locks, and the final swap.
-Compare the tiers below. Every plan includes the full rulebook engine — draw, steals, locks, final swap — live or async. [TBD] marks features still being finalized; this table will be updated as they land.
+Compare the tiers below. Every plan includes the full rulebook engine — draw, steals, locks, final swap — live or async.
 ## Compare the tiers
-Prices are per event, USD. [TBD] = to be confirmed by the product team.
+Prices are per event, USD.
 Feature
 Free
 Party
@@ -2486,12 +2486,15 @@ Async multi-day events
 Spectator-plus for remote guests
 House-rule amendments & MC tools
 Order-at-end-of-game support
-[TBD]
-Custom branding / logo on events
+✓
+Custom logo on your event (JPEG or PNG)
 —
-Event analytics & export
-Priority support
-[TBD] rows are placeholders pending final feature decisions — confirm with the product team and update this table before launch. Prices and player limits are current.
+✓
+✓
+Gift & thank-you videos
+—
+Up to 30 sec
+Up to 45 sec
 ## Which tier fits your group?
 Three honest recommendations.
 ### Free — up to 8 players
@@ -2507,7 +2510,7 @@ Same engine, company scale. One event link, every office and time zone in one pi
 Short answers; the FAQ has more.
 Is it per person? No — per event. A 40-player Party event costs $19 total, not $19 a head.
 Is there a subscription? No. Pay when you host an event; play free under 8 players forever.
-Can we upgrade mid-event? [TBD] — if your 8-player game suddenly invites the whole floor, contact support and we’ll make it right.
+Can we upgrade after we’ve started setting up? Yes. Until the game starts, the host can upgrade from inside the game, pay for the new tier by card, and invite the rest of the floor. Once the game starts, the plan is locked in.
 ## Stolen Elephants Pricing — FAQ
 The questions this page always raises.
 How much does Stolen Elephants cost?
@@ -2515,7 +2518,7 @@ Free for up to 8 players. Party tier is $19 per event for 9–40 players, and Bu
 Is there a free plan?
 Yes — the full rulebook engine (draw, steals, Three-Owner Rule locks, final swap, live or async) is free for groups up to 8 players, with no time limit.
 What’s the difference between Party and Business tiers?
-Size only: Party covers 9–40 players at $19 per event, Business covers 41–150 at $99. Additional business features are being finalized and will appear on this table as [TBD] rows resolve.
+Party covers 9–40 players at $19 per event, Business covers 41–150 at $99. Both include a custom logo on your event and gift and thank-you videos; Business allows longer videos (45 seconds instead of 30).
 ## Ready to host?
 Free for up to 8 players — start an event and let the app track every steal.
 Start an event →
