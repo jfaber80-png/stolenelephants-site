@@ -63,3 +63,15 @@ footer{background:var(--pine-deep);color:#ecd5d4;margin-top:48px}
 .skip{outline-offset:2px}
 .navlinks a:focus-visible,.brand:focus-visible{outline:3px solid var(--gold);outline-offset:3px;border-radius:6px}
 img.logo{height:auto}
+
+.navlinks a.navcta{background:var(--cranberry);color:#fff;padding:7px 16px;border-radius:999px;box-shadow:0 2px 0 var(--cranberry-dark)}
+.navlinks a.navcta:hover{background:var(--cranberry-dark);color:#fff}
+.herocta{margin-top:18px}
+.herocta .cta{margin-right:10px}
+.cta.ghostcta{background:transparent;color:var(--cranberry);border:2px solid var(--cranberry);box-shadow:none;padding:11px 24px}
+.gift .cta{margin-top:10px;font-size:15px;padding:10px 22px}
+.callout.startcta .cta{background:var(--gold);color:var(--pine-deep);box-shadow:0 3px 0 rgba(0,0,0,.25)}
+.hero .herocta .cta{background:var(--gold);color:var(--pine-deep);box-shadow:0 3px 0 rgba(0,0,0,.3)}
+.hero .herocta .cta:hover{background:#fff}
+.hero .herocta .ghostcta{background:transparent;color:#fff;border:2px solid #fff;box-shadow:none}
+.hero .herocta .ghostcta:hover{background:rgba(255,255,255,.14)}
