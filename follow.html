@@ -151,7 +151,12 @@ details{border:1.5px solid var(--line);border-radius:10px;background:#fff;margin
 .socials{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;margin:22px 0}
 .soc{display:flex;flex-direction:column;gap:8px;background:#fff;border:1.5px solid var(--line);border-radius:14px;padding:20px;text-decoration:none;color:inherit;transition:transform .15s,box-shadow .15s}
 .soc:hover{transform:translateY(-2px);box-shadow:0 6px 18px rgba(0,0,0,.08)}
-.soc img{width:56px;height:56px}
+.soc .tile{display:flex;align-items:center;justify-content:center;width:64px;height:64px;border-radius:16px;background:#fff}
+.soc .tile img{width:44px;height:44px;object-fit:contain}
+.soc .tile.instagram{background:linear-gradient(45deg,#feda75,#fa7e1e 25%,#d62976 50%,#962fbf 75%,#4f5bd5)}
+.soc .tile.tiktok{width:150px;background:#000}
+.soc .tile.tiktok img{width:130px;height:54px}
+.soc .tile.facebook img{width:56px;height:56px}
 .soc b{font-family:"Baloo 2",sans-serif;font-size:21px}
 .soc .h{color:var(--cranberry);font-weight:700}
 .soc p{margin:0;font-size:14.5px;color:var(--muted)}
@@ -194,7 +199,7 @@ details ul{padding-left:36px}
   <div class="ellie"><img src="https://www.stolenelephants.com/assets/logo.svg" alt="Ellie Phant, the Stolen Elephants mascot" width="300" height="300">
   <div class="bubble"><b>Hi, I’m Ellie Phant.</b> I keep the peace at white elephant exchanges, which is a full-time job. Follow along for gift ideas, steal-chain stories and proof that someone, somewhere, re-gifted a fondue set for the fourth year running. Same handle everywhere: <b>@stolenelephants</b>.</div></div>
   <div class="socials">
-  <a class="soc" href="https://www.instagram.com/stolenelephants" target="_blank" rel="noopener me"><img src="https://www.stolenelephants.com/assets/social/instagram.svg" alt="" width="56" height="56"><b>Instagram</b><span class="h">@stolenelephants</span><p>Behind-the-trunk photos, the week’s most-stolen gifts and wrapping crimes we can’t unsee.</p></a><a class="soc" href="https://www.facebook.com/stolenelephants" target="_blank" rel="noopener me"><img src="https://www.stolenelephants.com/assets/social/facebook.svg" alt="" width="56" height="56"><b>Facebook</b><span class="h">@stolenelephants</span><p>Hosting tips, party themes and the occasional poll that splits families down the middle.</p></a><a class="soc" href="https://www.tiktok.com/@stolenelephants" target="_blank" rel="noopener me"><img src="https://www.stolenelephants.com/assets/social/tiktok.svg" alt="" width="56" height="56"><b>TikTok</b><span class="h">@stolenelephants</span><p>Fifteen seconds of pure steal-chain chaos. Also, Ellie attempting to dance. Results vary.</p></a>
+  <a class="soc" href="https://www.instagram.com/stolenelephants" target="_blank" rel="noopener me"><span class="tile instagram"><img src="https://www.stolenelephants.com/assets/social/instagram.svg" alt="" width="44" height="44"></span><b>Instagram</b><span class="h">@stolenelephants</span><p>Behind-the-trunk photos, the week’s most-stolen gifts and wrapping crimes we can’t unsee.</p></a><a class="soc" href="https://www.facebook.com/stolenelephants" target="_blank" rel="noopener me"><span class="tile facebook"><img src="https://www.stolenelephants.com/assets/social/facebook.svg" alt="" width="44" height="44"></span><b>Facebook</b><span class="h">@stolenelephants</span><p>Hosting tips, party themes and the occasional poll that splits families down the middle.</p></a><a class="soc" href="https://www.tiktok.com/@stolenelephants" target="_blank" rel="noopener me"><span class="tile tiktok"><img src="https://www.stolenelephants.com/assets/social/tiktok.svg" alt="" width="44" height="44"></span><b>TikTok</b><span class="h">@stolenelephants</span><p>Fifteen seconds of pure steal-chain chaos. Also, Ellie attempting to dance. Results vary.</p></a>
   </div>
   <div class="note"><strong>Got a gift-stealing story or a photo of your best (worst) gift?</strong> Tag <b>@stolenelephants</b> or send it to <a href="mailto:ellie@stolenelephants.com">ellie@stolenelephants.com</a>. With your OK, Ellie may share the best ones.</div>
 </section>
