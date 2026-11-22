@@ -120,6 +120,8 @@
   <url><loc>https://www.stolenelephants.com/classroom-white-elephant</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.stolenelephants.com/white-elephant-invitation-wording</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.stolenelephants.com/pricing</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.stolenelephants.com/support</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.stolenelephants.com/follow</loc><changefreq>yearly</changefreq><priority>0.4</priority></url>
   <url><loc>https://www.stolenelephants.com/terms</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
   <url><loc>https://www.stolenelephants.com/privacy</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
 </urlset>
