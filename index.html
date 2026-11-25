@@ -49,11 +49,14 @@
       },
       "headline": "White Elephant Gift Exchange: The Definitive Guide",
       "author": {
-        "@type": "Organization",
-        "name": "Stolen Elephants editorial",
-        "url": "https://www.stolenelephants.com/",
-        "@id": "https://www.stolenelephants.com/#editorial"
-      },
+  "@type": "Person",
+  "@id": "https://www.stolenelephants.com/about#ellie",
+  "name": "Ellie Phant",
+  "jobTitle": "Lead editor",
+  "description": "Ellie Phant, lead editor at Stolen Elephants",
+  "url": "https://www.stolenelephants.com/about",
+  "worksFor": {"@id": "https://www.stolenelephants.com/#org"}
+ },
       "publisher": {
         "@type": "Organization",
         "name": "Stolen Elephants",
@@ -232,7 +235,7 @@
 </script>
 <link rel="preload" href="/assets/fonts/inter-latin-400.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="/assets/fonts/baloo-2-latin-var.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="/assets/site.css?v=20261124">
+<link rel="stylesheet" href="/assets/site.css?v=20261124b">
 <style>
 .hero{background:var(--pine);color:var(--paper);padding:64px 0 56px;position:relative;overflow:hidden}
 .hero::before{content:"";position:absolute;inset:0;background:radial-gradient(ellipse 640px 320px at 85% -10%,rgba(232,176,74,.22),transparent 65%)}
@@ -251,6 +254,12 @@ th{background:var(--pine);color:var(--paper);text-align:left;padding:10px 14px;f
 td{padding:10px 14px;border-top:1px solid var(--line);vertical-align:top}
 @media (prefers-reduced-motion:no-preference){.stamp{animation:stamp .5s .3s cubic-bezier(.2,2,.4,1) both}@keyframes stamp{0%{transform:rotate(-6deg) scale(2.4);opacity:0}100%{transform:rotate(-6deg) scale(1);opacity:1}}}
 </style>
+<!-- Privacy-friendly analytics by Plausible -->
+<script async src="https://plausible.io/js/pa-F500smJUi7NufOUlSrdPM.js"></script>
+<script>
+  window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};
+  plausible.init()
+</script>
 </head>
 <body>
 <a class="skip" href="#main">Skip to main content</a>
@@ -264,7 +273,7 @@ td{padding:10px 14px;border-top:1px solid var(--line);vertical-align:top}
 
 <header class="hero">
   <div class="wrap">
-    <div class="crumbs"><span>Home</span><time datetime="2026-11-22">Updated November 22, 2026</time></div>
+    <div class="crumbs"><span>Home</span><time datetime="2026-11-22">Updated November 22, 2026</time><span class="byline">By <a href="/about#ellie">Ellie Phant</a>, lead editor</span></div>
     <span class="eyebrow">The definitive guide</span>
     <h1>The White Elephant Gift Exchange</h1>
     <p class="lede">One wrapped gift each. One pile. Numbers drawn from a hat. And the most contested centerpiece of every December party since the King of Siam allegedly ruined his courtiers with albino pachyderms.</p>
