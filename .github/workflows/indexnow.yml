@@ -1,0 +1,26 @@
+# Tells Bing (which also feeds ChatGPT search and Copilot), Yandex and others which pages changed,
+# so updates show up in search within hours instead of weeks. Runs on every push to main.
+name: IndexNow
+on:
+  push:
+    branches: [main]
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+      - name: Wait for GitHub Pages to publish
+        run: sleep 120
+      - name: Submit changed pages
+        env:
+          KEY: fd24cece6857f4a371c9692c762308ba
+          HOST: www.stolenelephants.com
+        run: |
+          urls=$(git diff --name-only HEAD~1 HEAD -- '*.html' | grep -v '^404.html$' | sed -e 's/\.html$//' -e 's/^index$//' -e "s|^|https://$HOST/|" || true)
+          [ -z "$urls" ] && { echo "No page changes."; exit 0; }
+          list=$(printf '%s\n' $urls | jq -R . | jq -s .)
+          jq -n --arg host "$HOST" --arg key "$KEY" --argjson urls "$list"             '{host:$host,key:$key,keyLocation:("https://"+$host+"/"+$key+".txt"),urlList:$urls}' > body.json
+          cat body.json
+          curl -sS -o /dev/null -w "IndexNow HTTP %{http_code}\n" -H 'Content-Type: application/json; charset=utf-8'             --data @body.json https://api.indexnow.org/indexnow
