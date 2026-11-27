@@ -86,7 +86,7 @@ Families spread across states and countries still run the white elephant — gra
 ### Virtual White Elephant No-No’s
 What not to gift in a virtual white elephant: liquor state bans, heavy shipping costs, fragile items, food in extreme…
 ### Stolen Elephants Pricing
-Stolen Elephants pricing: free for up to 8 players, Party at $19 per event (9–40 players), Business at $99 per event…
+Stolen Elephants pricing: free for up to 8 players, Party at $19 per event (9–30 players), Business at $99 per event…
 ## Why "white elephant"? The origin, honestly told
 The story everyone tells: the King of Siam (modern Thailand) gifted rare albino elephants to courtiers who displeased him, letting the animals' ruinous upkeep do the punishing. Historians can't find an actual record of that ever happening — and in Thai culture, white elephants were sacred: any one found had to be presented to the King by law. What's certain is the English idiom: a white elephant is an expensive, impractical possession nobody knows what to do with. The game inherited the name from the piles of gag gifts and regifted candle sets it was built on. Today's best games mix in genuinely great gifts — that's what makes stealing worth fighting over.
 ## How the names map to the map
@@ -1469,7 +1469,7 @@ Dirty Santa is the South's steal-heavy white elephant. Learn the rules, the unli
 ### The Best White Elephant Gifts
 The best white elephant gift ideas for 2026, sorted by budget — the booze wreath, the walnut $20, the Costco chicken…
 ### Stolen Elephants Pricing
-Stolen Elephants pricing: free for up to 8 players, Party at $19 per event (9–40 players), Business at $99 per event…
+Stolen Elephants pricing: free for up to 8 players, Party at $19 per event (9–30 players), Business at $99 per event…
 
 ---
 
@@ -1859,7 +1859,7 @@ See the final-swap rule →
 ## Why distributed teams get more out of it than co-located ones
 The gift pile becomes the water cooler.
 Co-located offices have the break room; remote teams have notifications. An async white elephant manufactures the small, harmless drama — who stole the good candles? — that distributed teams otherwise never get. It works for hybrid squads too: the folks in the conference room and the folks on the screen see the same board, and nobody in either group is a second-class player.
-It also scales with the org chart: a team of 8 plays free, a department of 40 runs $19 per event, and a whole-company brawl up to 150 players is $99 — the same pricing as every Stolen Elephants event.
+It also scales with the org chart: a team of 8 plays free, a department of 30 runs $19 per event, and a whole-company brawl up to 150 players is $99 — the same pricing as every Stolen Elephants event.
 ## Keep it classy enough for the all-hands
 A quick word from your friendly HR partner.
 The office edition has its own etiquette — budget caps, no procedural-gift recycling, and a dedicated playbook. For a distributed team, add two: announce the house rules in writing before Monday, and let the app's MC functions make the controversial calls, because 'the software decided' ends debates that a manager can't.
@@ -1874,7 +1874,7 @@ $20 is the office norm; some teams do $30 for a 'premium' year. Announce the cap
 Is a virtual gift exchange good team building for hybrid teams?
 Yes — in-room and remote players share one board, one order, and one steal chain, so neither group becomes the second-class audience of a conference-room-only party.
 ## Ship a game to your team this week
-Small team? Free up to 8 players. Department? Party tier covers 9–40. The FAQ answers what HR will ask.
+Small team? Free up to 8 players. Department? Party tier covers 9–30. The FAQ answers what HR will ask.
 Create the event →
 ## Keep reading
 ### Virtual White Elephant & Yankee Swap
@@ -2001,7 +2001,7 @@ Best practice, yes: buy online and ship directly, so the winner's prize is alrea
 Does the Three-Owner Rule still work asynchronously?
 Yes — the app enforces it in real time regardless of when each player takes their turn. Async steals lock gifts exactly like live ones, no honor system required.
 ## Keep the tradition running this year
-Family-sized events beyond 8 players run $19 (Party, 9–40) — cheaper than one airport lunch. Full rules live in the FAQ.
+Family-sized events beyond 8 players run $19 (Party, 9–30) — cheaper than one airport lunch. Full rules live in the FAQ.
 Start the family event →
 ## Keep reading
 ### Virtual White Elephant & Yankee Swap
@@ -2224,7 +2224,7 @@ Secret Santa assigns each person a named recipient in advance and gifts are give
 Is Yankee Swap the same as white elephant?
 Functionally yes — different regions use different names. 'Yankee Swap' usually implies the formal final-swap for Player 1; 'white elephant' and 'Dirty Santa' are regional labels for the same steal-chain game.
 Which gift exchange is best for large groups?
-White elephant for entertainment (up to 40 in Party tier, 150 in Business), grab bag for speed, Secret Santa when personalization matters more than spectacle.
+White elephant for entertainment (up to 30 in Party tier, 150 in Business), grab bag for speed, Secret Santa when personalization matters more than spectacle.
 Can you play both at the same party?
 Yes — a common office pattern is Secret Santa for thoughtful gifts at dinner and a white elephant for the after-dinner chaos. Budget-separate them so nobody double-spends.
 ## Ready to host?
@@ -2453,7 +2453,7 @@ Source: https://www.stolenelephants.com/pricing
 Title: Stolen Elephants Pricing: Free, Party & Business Plans
 
 Quick answer
-Stolen Elephants charges per event, never per seat or per month. The Free plan covers up to 8 players for $0, Party is $19 per event for up to 40 players, and Business is $99 per event for up to 150 players. All plans include the rulebook engine, which handles draws, steals, Three-Owner locks, and the final swap.
+Stolen Elephants charges per event, never per seat or per month. The Free plan covers up to 8 players for $0, Party is $19 per event for up to 30 players, and Business is $99 per event for up to 150 players. All plans include the rulebook engine, which handles draws, steals, Three-Owner locks, and the final swap.
 Compare the tiers below. Every plan includes the full rulebook engine — draw, steals, locks, final swap — live or async.
 ## Compare the tiers
 Prices are per event, USD.
@@ -2467,7 +2467,7 @@ $19
 $99
 Players per event
 Up to 8
-Up to 40
+Up to 30
 Up to 150
 Full rulebook engine (draw, steals, Three-Owner locks, final swap)
 ✓
@@ -2495,7 +2495,7 @@ Three honest recommendations.
 ### Free — up to 8 players
 Perfect for: family game night, one classroom, a squad of friends. The entire rulebook engine, zero dollars.
 Full draw, steal chains, Three-Owner Rule locks, final swap — live or async. If your circle fits around one table, you’ll never need to pay.
-### Party — 9 to 40 players
+### Party — 9 to 30 players
 Perfect for: office teams, big family reunions, club holiday parties. One flat $19 covers everyone.
 Everything in Free, sized for the whole department: async across the week, spectator-plus for remote guests, 30-second gift and thank-you videos, and a party photo gallery where everyone posts pictures and comments. Party and Business games can add their own logo.
 ### Business — 41 to 150 players
@@ -2503,17 +2503,17 @@ Perfect for: whole-company holiday chaos, multi-office events, the all-hands tha
 Same engine, company scale. One event link, every office and time zone in one pile, and no per-seat math when the headcount wobbles between November and December. Adds 45-second gift and thank-you videos and the party photo gallery with comments. Party and Business games can add their own logo.
 ## Common pricing questions
 Short answers; the FAQ has more.
-Is it per person? No — per event. A 40-player Party event costs $19 total, not $19 a head.
+Is it per person? No — per event. A 30-player Party event costs $19 total, not $19 a head.
 Is there a subscription? No. Pay when you host an event; play free under 8 players forever.
 Can we upgrade after we’ve started setting up? Yes. Until the game starts, the host can upgrade from inside the game, pay for the new tier by card, and invite the rest of the floor. Once the game starts, the plan is locked in.
 ## Stolen Elephants Pricing — FAQ
 The questions this page always raises.
 How much does Stolen Elephants cost?
-Free for up to 8 players. Party tier is $19 per event for 9–40 players, and Business tier is $99 per event for 41–150 players. Always per event — never per person or per month.
+Free for up to 8 players. Party tier is $19 per event for 9–30 players, and Business tier is $99 per event for 41–150 players. Always per event — never per person or per month.
 Is there a free plan?
 Yes — the full rulebook engine (draw, steals, Three-Owner Rule locks, final swap, live or async) is free for groups up to 8 players, with no time limit.
 What’s the difference between Party and Business tiers?
-Party covers 9–40 players at $19 per event, Business covers 41–150 at $99. Both include gift and thank-you videos and a party photo gallery where players post pictures and comment to each other and the host; Business allows longer videos (45 seconds instead of 30). Party and Business games can add their own logo.
+Party covers 9–30 players at $19 per event, Business covers 41–150 at $99. Both include gift and thank-you videos and a party photo gallery where players post pictures and comment to each other and the host; Business allows longer videos (45 seconds instead of 30). Party and Business games can add their own logo.
 What is the party photo gallery?
 On Party and Business games, every player can post photos to a shared gallery inside the game. Anyone in the game can comment, and the host can remove anything. The gallery is deleted with the rest of the game, 15 days after it ends.
 ## Ready to host?
@@ -2568,7 +2568,7 @@ For hosts: setting up, plans, invites and changes.
 ### How do I start a game?
 Go to play.stolenelephants.com and tap Host a game. Three quick steps: 1 · Plan (Free, Party or Business), 2 · Your game (a name, the start date and time on the calendar, an optional note to your players, a suggested gift budget and the rules), and 3 · You (you play too, so you get a name, PIN, email and shipping address like everyone else). Five minutes, tops. I’ve timed it. With my trunk.
 ### Which plan should I pick?
-Free holds up to 8 players. Party ($19 per event) holds up to 40 and adds gift and thank-you videos, a party photo gallery with comments, and your own logo. Business ($99 per event) holds up to 150 with longer videos. Not sure? Start Free. You can upgrade any time before the game starts, if your group outgrows the limit or you want the extras, and you only pay the difference. See Pricing.
+Free holds up to 8 players. Party ($19 per event) holds up to 30 and adds gift and thank-you videos, a party photo gallery with comments, and your own logo. Business ($99 per event) holds up to 150 with longer videos. Not sure? Start Free. You can upgrade any time before the game starts, if your group outgrows the limit or you want the extras, and you only pay the difference. See Pricing.
 ### How do I invite people?
 Once the game exists, tap Invite at the top to share the link, or read out the game code (it’s the big one). You can also send email invites from the lobby. Anyone with the link can ask to join, and you can remove anyone who wandered in from the wrong party.
 ### Can I change the start time, rules or budget later?
@@ -2592,7 +2592,7 @@ Your gift stays hidden from everyone until someone opens it in the game. No peek
 ### I forgot my PIN or I’m on a new phone.
 Open the invite link again and choose Sign back in with the same name and PIN. If the PIN has truly left the building, ask your host, or write to me at ellie@stolenelephants.com with the game code and your player name.
 ### The game says it’s full.
-The host’s plan has hit its player limit (8 on Free, 40 on Party). The host gets an email with a one-tap upgrade. Give them a friendly nudge. Or an unfriendly one. I don’t judge.
+The host’s plan has hit its player limit (8 on Free, 30 on Party). The host gets an email with a one-tap upgrade. Give them a friendly nudge. Or an unfriendly one. I don’t judge.
 ### Can I change my gift after I’ve added it?
 Yes, right up until gifts lock 10 minutes before the scheduled start.
 ## 🎁 Game play
